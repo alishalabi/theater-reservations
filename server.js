@@ -1,6 +1,10 @@
 var express = require('express');
 var app = express();
 
+
+// mongo 
+require('./theater-db')
+
 // Stub: Index All Theaters
 app.get("/theaters", (req, res) => {
   res.json({})
