@@ -6,7 +6,7 @@ Goals:
 
 3. Understand and embrace the API development process by combining nested RESTful routes with JavaScript code that interacts with MongoDB.
 
-Why I did it this way:
+Why we did it this way:
 -
 - Associations:
   - One theater has many sessions
